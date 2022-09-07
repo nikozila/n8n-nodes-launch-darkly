@@ -1,6 +1,6 @@
 {
   "name": "n8n-nodes-launch-darkly",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "npm package for adding Launch Darkly node to n8n",
   "keywords": [
     "n8n-community-node-package"

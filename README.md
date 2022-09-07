@@ -31,7 +31,7 @@ You must authenticate with your api token. To get your token you must buy a pack
 
 ## Compatibility
 
-Tested on n8n@0.188.0 (as the minimum version)
+Tested on 0.188.0 (as the minimum version) and 0.193.3
 
 
 ## Resources
